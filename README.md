@@ -1,5 +1,7 @@
 # macOS setup
 
+Using macOS versions and soft.
+
 ## OS
 
 | Version | Comment |
