@@ -23,3 +23,4 @@ Using macOS versions and soft.
 * [Office](./soft/categories/office.md)
 * [Multimedia](./soft/categories/multimedia.md)
 * [Other](./soft/categories/other.md)
+
