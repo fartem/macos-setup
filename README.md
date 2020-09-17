@@ -8,8 +8,7 @@ Using macOS versions and soft.
 
 | Version | Comment |
 | --- | --- |
-| macOS Catalina (version 10.15) | Using on Apple computers |
-| macOS High Sierra (version 10.13) and below | Using on Intel PC |
+| macOS Catalina (version 10.15) | |
 
 ## Soft
 
@@ -22,4 +21,3 @@ Using macOS versions and soft.
 * [Office](./soft/categories/office.md)
 * [Multimedia](./soft/categories/multimedia.md)
 * [Other](./soft/categories/other.md)
-
