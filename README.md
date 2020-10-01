@@ -15,6 +15,7 @@ Using macOS versions and soft.
 
 * [Development](./soft/categories/development.md)
 * [System](./soft/categories/system.md)
+* [Productivity](./soft/categories/productivity.md)
 * [Messengers](./soft/categories/messengers.md)
 * [Internet](./soft/categories/internet.md)
 * [Articles](./soft/categories/articles.md)
@@ -22,4 +23,3 @@ Using macOS versions and soft.
 * [Office](./soft/categories/office.md)
 * [Multimedia](./soft/categories/multimedia.md)
 * [Other](./soft/categories/other.md)
-

@@ -1,5 +1,5 @@
-## RSS
+## Other
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| Feedly | RSS client | https://feedly.com | | Find in App Store |
+| Toggl Track | Time tracker |https://toggl.com/track |
