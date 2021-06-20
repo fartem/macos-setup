@@ -2,4 +2,5 @@
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| Toggl Track | Time tracker |https://toggl.com/track |
+| Trello | Kanban boards | https://trello.com |
+| Toggl Track | Time tracker | https://toggl.com/track |

@@ -1,5 +1,5 @@
-## Office
+## RSS
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| LibreOffice | Office programs pack | https://www.libreoffice.org |
+| Feedly | RSS Reader | https://feedly.com |

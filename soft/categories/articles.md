@@ -1,5 +1,5 @@
-## Multimedia
+## Articles
 
 | Program | Description | Link | Plugins | Comment |
 | --- | --- | --- | --- | --- |
-| VLC | Multimedia player | https://www.videolan.org |
+| Pocket | Articles Reader | https://getpocket.com |
